@@ -39,18 +39,14 @@ I'm **Md Masudun Nobi Siam**, an Electrical & Electronic Engineering graduate fr
 ![Cadence](https://img.shields.io/badge/Cadence_Virtuoso-FF6B35?style=flat-square&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
 
 <br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Siam-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siam-github&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siam-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siam-github&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 📬 Get In Touch
 
