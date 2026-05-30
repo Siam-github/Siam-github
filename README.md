@@ -46,8 +46,7 @@ I'm **Md Masudun Nobi Siam**, an Electrical & Electronic Engineering graduate fr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Siam-github&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Siam-github&layout=compact&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Siam-github&show_icons=true&theme=tokyonight"/>
 ## 📬 Get In Touch
 
 I'm open to collaborations on VLSI projects, solar energy research, or anything EEE-related!
